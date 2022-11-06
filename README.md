@@ -1,6 +1,6 @@
 ### Hi there 👋
-### 
-
+### Future Computer Engineer 
+![image](https://user-images.githubusercontent.com/59549186/200153345-06311923-7f3a-45dc-9da2-ae6f2e802003.png)
 <!--
 **MirageM/MirageM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![image](https://user-images.githubusercontent.com/59549186/200153345-06311923-7f3a-45dc-9da2-ae6f2e802003.png)
+
 
