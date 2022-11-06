@@ -1,6 +1,11 @@
 ### Hi there 👋
 ### Future Computer Engineer 
 ![image](https://user-images.githubusercontent.com/59549186/200153345-06311923-7f3a-45dc-9da2-ae6f2e802003.png)
+![image](https://user-images.githubusercontent.com/59549186/200153418-2875dd5e-0854-48d1-8847-8b419ef68491.png)
+![image](https://user-images.githubusercontent.com/59549186/200153427-aba5655a-e25f-47fd-b7dc-e32496eff859.png)
+![image](https://user-images.githubusercontent.com/59549186/200153435-f83e9ffe-8e06-4817-9f54-f9acd76618f3.png)
+
+
 <!--
 **MirageM/MirageM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
