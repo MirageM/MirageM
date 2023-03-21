@@ -71,6 +71,3 @@
 
 
 Hey there! I am an aspiring computer engineer that is eager to learn new things. Don't hestitate to reach out to me.
-
-Visitor count: </br> 
-![Visitor Count](https://profile-counter.glitch.me/MirageM/count.svg)
