@@ -31,7 +31,7 @@
  <img src='https://img.shields.io/badge/Android-3DDC84?logo=Android&logoColor=fff' height=22/>
 </p>
 
-### Linux Distributions I've Worked With:<br>
+### Linux Distributions Systems:<br>
 <p float='left'>
  <img src='https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=FFF' height=22/>
  <img src='https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=FFF' height=22/>
@@ -43,7 +43,4 @@
 <br>
 
 
-Hey there! I am a computer engineer.
-
-I am always eager to learn new things, so do not hesitate to contact me!
-
+Hey there! I am an aspiring computer engineer that is eager to learn new things. Don't hestitate to reach out to me.
